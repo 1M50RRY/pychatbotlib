@@ -1,7 +1,7 @@
 <h1>PyChatbotLib</h1>
 <hr/>
 <b>Exclusive library for creating chatbots.<br>
-It uses a very simple neural network which helps to recognize possible answers to messages.<br>
+It uses a very simple algorithm which helps to recognize possible answers to messages.<br>
 You just need to train it in chats with 2 types of messages: reply and original.<br>
 </b>
 <h3>Installation</h3>
